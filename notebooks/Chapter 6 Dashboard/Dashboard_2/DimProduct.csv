@@ -1,0 +1,19 @@
+ProductID,ProductName,Category,Unit
+P001,Gạo ST25,Thực phẩm,kg
+P002,Nước mắm Phú Quốc,Thực phẩm,chai
+P003,Cà phê rang xay,Thực phẩm,gói
+P004,Điện thoại A1,Điện tử,cái
+P005,Tai nghe Bluetooth,Điện tử,cái
+P006,Máy lọc không khí,Gia dụng,cái
+P007,Bột giặt cao cấp,Hóa phẩm,túi
+P008,Nước rửa chén,Hóa phẩm,chai
+P009,Sữa tươi 1L,Thực phẩm,hộp
+P010,Bánh quy bơ,Thực phẩm,hộp
+P011,Gạch lát nền 60x60,Vật liệu,m2
+P012,Sơn nước nội thất,Vật liệu,thùng
+P013,Máy bơm nước,Gia dụng,cái
+P014,Quạt điều hòa,Gia dụng,cái
+P015,USB 64GB,Điện tử,cái
+P016,Giấy in A4,Văn phòng,ram
+P017,Mực in laser,Văn phòng,hộp
+P018,Bàn phím không dây,Điện tử,cái

@@ -1,0 +1,21 @@
+CustomerID,CustomerName,Region,Segment
+C001,Công ty Cổ phần Sông Hồng,North,Retail
+C002,Công ty TNHH Thương mại An Phát,Central,Retail
+C003,Công ty TNHH Dịch vụ Minh Quân,North,SMB
+C004,Công ty Cổ phần Bình An,Central,Retail
+C005,Công ty TNHH SX & TM Hòa Bình,Central,Enterprise
+C006,Công ty TNHH MTV Nam Phát,North,SMB
+C007,Công ty Cổ phần VinaFoods,North,Retail
+C008,Công ty TNHH TM Hà Thành,Central,Retail
+C009,Công ty Cổ phần Dược Phúc Lâm,South,SMB
+C010,Công ty TNHH Logistics Á Đông,South,Enterprise
+C011,Công ty Cổ phần Điện tử Việt Nam,Central,SMB
+C012,Công ty TNHH Đầu tư Sao Mai,Central,Retail
+C013,Công ty Cổ phần Thành Công,North,Retail
+C014,Công ty TNHH Minh Tâm,North,Retail
+C015,Công ty Cổ phần Hưng Thịnh,North,Enterprise
+C016,Công ty TNHH Hòa Thuận,Central,Retail
+C017,Công ty Cổ phần Long An,South,Retail
+C018,Công ty TNHH Toàn Phát,Central,Retail
+C019,Công ty Cổ phần Nam Việt,South,SMB
+C020,Công ty TNHH Thịnh Vượng,North,SMB
